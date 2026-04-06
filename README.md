@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Go+%26+Java+(Golang);Building+Scalable+REST+APIs+%26+Microservices;Spring+Boot+%7C+Distributed+Systems+%7C+Clean+Code;Open+to+Backend+%2F+Go+Developer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Go(Golang)+%26+Java+;Building+Scalable+REST+APIs+%26+Microservices;Spring+Boot+%7C+Distributed+Systems+%7C+Clean+Code;Open+to+Backend+%2F+Go+Developer+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
