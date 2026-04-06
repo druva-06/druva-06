@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Druvasena%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/druvasena-reddy-naini/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Druvasena%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/druvasena-reddy-naini)
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainidruvasenareddy3737@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-druva--06-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/druva-06)
 [![Profile Views](https://komarev.com/ghpvc/?username=druva-06&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/druva-06)
