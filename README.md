@@ -51,8 +51,8 @@ func main() {
 		Role:       "Backend Engineer",
 		Company:    "Tata Consultancy Services (TCS)",
 		Location:   "Hyderabad, India",
-		Languages:  []string{"Java", "Go (Golang)", "JavaScript", "SQL"},
-		Frameworks: []string{"Spring Boot", "Spring MVC", "REST APIs", "Microservices"},
+		Languages:  []string{"Go (Golang)", "Java", "JavaScript", "SQL"},
+		Frameworks: []string{"Gin", "Spring Boot", "Kafka", "Redis", "REST APIs", "Kubernetes", "Microservices"},
 		Focus:      []string{"Scalable Systems", "Clean Architecture", "API Design", "Automation"},
 		OpenTo:     "Backend / Go Developer roles at product-first companies",
 	}
